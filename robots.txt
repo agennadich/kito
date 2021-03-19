@@ -1,0 +1,4 @@
+User-agent: 
+Crawl-delay: 1
+Host: kitoservices.ru
+Sitemap: https://kitoservices.ru/sitemap.xml

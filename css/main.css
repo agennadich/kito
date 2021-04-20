@@ -266,6 +266,7 @@ textarea {
   .wrapper__objects {
     margin: 5%;
     line-height: 1.7;
+    height: 100%;
   }
 
   .wrapper__objects h2 {

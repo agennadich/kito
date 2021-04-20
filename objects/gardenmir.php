@@ -65,7 +65,7 @@
         <div class="wrapper__objects">
           <h2>Торгово-административный комплекс Gardenmir</h2>
           В сферу деятельности компании КиТО входит эксплуатация торгового центра Gardenmir, который расположен по адресу проспект Мира 40 в Мещанском районе ЦАО, в 20 метрах от входа на кольцевую станцию Московского метрополитена “Проспект Мира”
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2243.7477369629596!2d37.63147931573893!3d55.780252997342174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54a73981c0b87%3A0x933b18ca7cd8c65d!2zR2FyZGVubWlyINCi0L7RgNCz0L7QstC-LdCQ0LTQvNC40L3QuNGB0YLRgNCw0YLQuNCy0L3Ri9C5INCa0L7QvNC_0LvQtdC60YE!5e0!3m2!1sru!2sru!4v1560173363634!5m2!1sru!2sru" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2243.7477369629596!2d37.63147931573893!3d55.780252997342174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54a73981c0b87%3A0x933b18ca7cd8c65d!2zR2FyZGVubWlyINCi0L7RgNCz0L7QstC-LdCQ0LTQvNC40L3QuNGB0YLRgNCw0YLQuNCy0L3Ri9C5INCa0L7QvNC_0LvQtdC60YE!5e0!3m2!1sru!2sru!4v1560173363634!5m2!1sru!2sru" width="100%" height="60%" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
       </div>
     </div>
